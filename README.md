@@ -21,6 +21,14 @@ Coding Java since 2015, and Web since 2017. I'm a fan of <b><a href="https://www
 - [...]
 ```
 
+### About me 😅
+
+```yaml
+- 18 yo
+- Belgian
+- Paris
+```
+
 ### Contact me 📧
 You can contact me... [here](https://twitter.com/zeldown) or may be [here](https://discords.com/bio/p/zeldown) ? or somewhere [here](mailto:dev.zeldown@gmail.com?Subject=Hello%20world!). I don't know.
 
