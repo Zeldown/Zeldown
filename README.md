@@ -24,7 +24,7 @@ Coding Java since 2015, and Web since 2017. I'm a fan of <b><a href="https://www
 ### About me 😅
 
 ```yaml
-- 19 yo
+- 20 yo
 - Belgian
 - Paris
 ```
