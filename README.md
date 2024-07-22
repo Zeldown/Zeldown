@@ -8,7 +8,7 @@ Coding Java since 2015, and Web since 2017. I'm a fan of <b><a href="https://www
 ## My Addictions ☕
 
 ```yaml
-- Code conventions
+- Code Conventions
 - Open Source
 - Optimizations
 ```
@@ -16,8 +16,10 @@ Coding Java since 2015, and Web since 2017. I'm a fan of <b><a href="https://www
 ### My Projets 🌎
 
 ```yaml
-- paladium-pvp.fr
-- funradio.be
+- paladium.games [JAVA]
+- craftok.fr [JAVA]
+- funradio.be [WEB]
+- advinci.be [WEB]
 - [...]
 ```
 
